@@ -3,14 +3,24 @@
   "summary": {
     "title": "IoT",
     "owner": "HHS",
-    "description": "",
+    "description": "Iot",
     "id": 0
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
-    "reviewer": "",
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.1.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Me",
     "threatTop": 0
   }
 }
